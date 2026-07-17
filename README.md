@@ -2,9 +2,9 @@ GitHub Profile README Template
 Copy the Markdown template below, paste it into your profile repository's README.md file, and replace
 the placeholder fields (such as [Your Name], [GitHubUsername], and URLs) with your own
 details. 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm KRISHNAKUMAR G</h1>
 <h3 align="center">
-🌐 Full Stack Web Developer | Passionate Problem Solver | Building 
+🌐SOFTWARE Developer | Passionate Problem Solver | Building 
 Modern Web Experiences
 </h3>
 <p align="center">
@@ -14,12 +14,16 @@ true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
 %7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
 wesome!" />
 </p>--
-## 🚀 About Me- 💻 I'm a **Full Stack Web Developer** passionate about creating 
-responsive and user-friendly web applications.- 🚀 I enjoy turning ideas into real-world projects.- 🌱 Currently learning **Next.js, TypeScript, and Cloud 
-Technologies**.- 🤝 Open to collaborating on exciting web development and open
-source projects.- 📚 Always exploring modern technologies and best development 
-practices.- ⚡ Fun Fact: **I love solving coding challenges and building 
-useful applications.**--
+## 👋 About Me
+
+- 🎓 CCE Student at **Sri Eshwar College of Engineering**
+- 💻 Aspiring **Software Engineer** passionate about building efficient and user-friendly applications.
+- ☕ Strong interest in **Java, Python, DBMS, and Full Stack Development**.
+- 🚀 Developing innovative projects with a focus on solving real-world problems.
+- 🌱 Learning **Data Structures & Algorithms, Spring Boot, React, and Cloud Computing**.
+- 🤝 Looking to collaborate on exciting software development and open-source projects.
+- 📖 Continuously learning modern technologies and industry best practices.
+- ⚡ I enjoy coding, participating in hackathons, and solving challenging programming problems.
 ## 🌐 Connect With Me
 <p align="left">
 <a href="[LinkedIn URL]">
