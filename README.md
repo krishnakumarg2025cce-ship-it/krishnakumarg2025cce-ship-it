@@ -26,88 +26,128 @@ wesome!" />
 - ⚡ I enjoy coding, participating in hackathons, and solving challenging programming problems.
 ## 🌐 Connect With Me
 <p align="left">
-<a href="[LinkedIn URL]">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for
-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/krishnakumar-g-3b166837b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="[Portfolio URL]">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for
-the-badge&logo=vercel"/>
+
+<a href="mailto:krishnakumar.g2025cce@sece.ac.in">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
-<a href="mailto:[Email Address]">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the
-badge&logo=gmail"/>
-</a>
-</p>--
+</p>
+
+---
+
 # 💻 Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
-</p>--
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mongodb,mysql,git,github,vscode,bootstrap"/>
+</p>
 # 🚀 Featured Projects
-## 🌍 Portfolio Website
-Modern personal portfolio showcasing projects, skills, and 
-experience.
+
+## 🛡️ EnerVision
+
+A smart safety helmet project designed to improve the safety of quarry, mining, and tunnel workers by providing innovative safety features.
+
 **Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
-🔗 Live Demo: [Portfolio URL]
-📂 Repository: [GitHub Repository]--
-## 🛒 E-Commerce Website
-A responsive online shopping platform with authentication and cart 
-functionality.
+
+`Python` `MongoDB`
+
+📂 Repository: https://github.com/krishnakumarg2025cce-ship-it/ennervision
+
+---
+
+## 👨‍💻 Student Portfolio
+
+A responsive portfolio website showcasing my education, skills, projects, and achievements.
+
 **Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
-🔗 Live Demo: [Project URL]
-📂 Repository: [GitHub Repository]--
-## ✅ Task Management App
-A productivity application to organize daily tasks with 
-authentication.
-**Tech Stack**
-`React` `Firebase` `Tailwind CSS`
-🔗 Live Demo: [Project URL]
-📂 Repository: [GitHub Repository]--
+
+`HTML` `CSS` `JavaScript`
+
+📂 Repository: https://github.com/krishnakumarg2025cce-ship-it/student-portfolio
+
+---
+
 # 📊 GitHub Stats
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
-er=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/
-top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
-r=true"/>
-</p>--
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishnakumarg2025cce-ship-it&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakumarg2025cce-ship-it&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 # 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
-</p>--
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnakumarg2025cce-ship-it&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 # 📈 Contribution Graph
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
-</p>--
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnakumarg2025cce-ship-it&theme=tokyo-night"/>
+</p>
+
+---
+
 # 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin
-w=10"/>
-</p>--
-# 🛠 Currently Working On- 🚀 Building full-stack web applications.- 🌱 Learning advanced React ecosystem.- ☁️ Exploring cloud deployment and DevOps.- 📱 Improving responsive UI/UX design.--
-# 📚 Currently Learning- TypeScript- Next.js- Docker- AWS- System Design- Backend Architecture--
-# 🎯 Goals for 2025- ✅ Contribute to Open Source- ✅ Build SaaS Applications- ✅ Master Full Stack Development- ✅ Learn Cloud Computing- ✅ Grow My Developer Portfolio--
+<img src="https://github-profile-trophy.vercel.app/?username=krishnakumarg2025cce-ship-it&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 🛠 Currently Working On
+
+- 🔬 Research intern at Sri Eshwar College of Engineering.
+- ☕ Improving my Java programming skills.
+- 💻 Building web development projects.
+- 📚 Strengthening Data Structures & Algorithms knowledge.
+
+---
+
+# 📚 Currently Learning
+
+- Java
+- Data Structures & Algorithms
+- DBMS
+- Web Development
+- Cloud Computing
+
+---
+
+# 🎯 Career Goals
+
+- ✅ Become a Software Engineer.
+- ✅ Become a Java Developer.
+- ✅ Contribute to Open Source.
+- ✅ Build real-world software solutions.
+- ✅ Continuously improve my programming and problem-solving skills.
+
+---
+
 # 💡 Favorite Quote
-> "Code is like humor. When you have to explain it, it's bad." – 
-Cory House--
+
+> "The best way to predict the future is to create it."
+
+---
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
-t"/>
-</p>--
+<img src="https://komarev.com/ghpvc/?username=krishnakumarg2025cce-ship-it&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
+
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories and 
+If you like my work, consider giving a ⭐ to my repositories and connecting with me.
+</p> 
 connecting with me.
 </p>
