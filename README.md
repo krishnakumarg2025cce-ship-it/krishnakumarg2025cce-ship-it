@@ -1,30 +1,30 @@
-GitHub Profile README Template
-Copy the Markdown template below, paste it into your profile repository's README.md file, and replace
-the placeholder fields (such as [Your Name], [GitHubUsername], and URLs) with your own
-details. 
 <h1 align="center">Hi 👋, I'm KRISHNAKUMAR G</h1>
-<h3 align="center">
-🌐SOFTWARE Developer | Passionate Problem Solver | Building 
-Modern Web Experiences
-</h3>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
-true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
-wesome!" />
-</p>--
-## 👋 About Me
 
-- 🎓 CCE Student at **Sri Eshwar College of Engineering**
-- 💻 Aspiring **Software Engineer** passionate about building efficient and user-friendly applications.
-- ☕ Strong interest in **Java, Python, DBMS, and Full Stack Development**.
-- 🚀 Developing innovative projects with a focus on solving real-world problems.
-- 🌱 Learning **Data Structures & Algorithms, Spring Boot, React, and Cloud Computing**.
-- 🤝 Looking to collaborate on exciting software development and open-source projects.
-- 📖 Continuously learning modern technologies and industry best practices.
-- ⚡ I enjoy coding, participating in hackathons, and solving challenging programming problems.
+<h3 align="center">
+Computer Communication Engineering Student | Research Intern | Java Developer | Software Engineering Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Research+Intern;Java+Developer;Software+Engineering+Student;Learning+Data+Structures+%26+Algorithms;Always+Learning+New+Technologies!" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Second Year **Computer Communication Engineering** student at **Sri Eshwar College of Engineering**
+- 🔬 **Research Intern** at Sri Eshwar College of Engineering
+- 💻 Passionate about **Java, Python, DBMS, and Software Development**
+- 🚀 Developing innovative projects that solve real-world problems
+- 🏆 Participated in **MUNx Hackathon**, **Code Insomnia Hackathon**, and various **technical events**
+- 📚 Currently learning **Java, Data Structures & Algorithms, DBMS, and Web Development**
+- 🌱 Continuously improving my programming and problem-solving skills
+- 🤝 Open to learning, collaboration, and exciting opportunities
+
+---
+
 ## 🌐 Connect With Me
+
 <p align="left">
 <a href="https://www.linkedin.com/in/krishnakumar-g-3b166837b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -37,26 +37,30 @@ wesome!" />
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mongodb,mysql,git,github,vscode,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mongodb,mysql,git,github,vscode"/>
 </p>
-# 🚀 Featured Projects
 
-## 🛡️ EnerVision
+---
 
-A smart safety helmet project designed to improve the safety of quarry, mining, and tunnel workers by providing innovative safety features.
+## 🚀 Featured Projects
+
+### 🛡️ EnerVision
+
+A smart safety helmet project designed to improve the safety of quarry, mining, and tunnel workers through innovative safety features.
 
 **Tech Stack**
 
 `Python` `MongoDB`
 
-📂 Repository: https://github.com/krishnakumarg2025cce-ship-it/ennervision
+📂 Repository:  
+https://github.com/krishnakumarg2025cce-ship-it/ennervision
 
 ---
 
-## 👨‍💻 Student Portfolio
+### 👨‍💻 Student Portfolio
 
 A responsive portfolio website showcasing my education, skills, projects, and achievements.
 
@@ -64,11 +68,21 @@ A responsive portfolio website showcasing my education, skills, projects, and ac
 
 `HTML` `CSS` `JavaScript`
 
-📂 Repository: https://github.com/krishnakumarg2025cce-ship-it/student-portfolio
+📂 Repository:  
+https://github.com/krishnakumarg2025cce-ship-it/student-portfolio
 
 ---
 
-# 📊 GitHub Stats
+## 🏆 Experience & Activities
+
+- 🔬 Research Intern – Sri Eshwar College of Engineering
+- 🏅 Participant – MUNx Hackathon
+- 💡 Participant – Code Insomnia Hackathon
+- 🎯 Active participant in coding contests, technical workshops, innovation challenges, and technical events
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=krishnakumarg2025cce-ship-it&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -77,7 +91,7 @@ A responsive portfolio website showcasing my education, skills, projects, and ac
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnakumarg2025cce-ship-it&theme=tokyonight&hide_border=true"/>
@@ -85,7 +99,7 @@ A responsive portfolio website showcasing my education, skills, projects, and ac
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnakumarg2025cce-ship-it&theme=tokyo-night"/>
@@ -93,46 +107,25 @@ A responsive portfolio website showcasing my education, skills, projects, and ac
 
 ---
 
-# 🏆 GitHub Trophies
+## 📚 Currently Learning
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krishnakumarg2025cce-ship-it&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 🛠 Currently Working On
-
-- 🔬 Research intern at Sri Eshwar College of Engineering.
-- ☕ Improving my Java programming skills.
-- 💻 Building web development projects.
-- 📚 Strengthening Data Structures & Algorithms knowledge.
+- ☕ Java
+- 📖 Data Structures & Algorithms
+- 🗄️ Database Management Systems (DBMS)
+- 🌐 Web Development
+- 💻 Software Engineering Concepts
 
 ---
 
-# 📚 Currently Learning
+## 🎯 Career Goal
 
-- Java
-- Data Structures & Algorithms
-- DBMS
-- Web Development
-- Cloud Computing
+Aspiring to become a **Software Engineer** and **Java Developer**, building impactful software solutions, contributing to innovative projects, and continuously improving my technical and problem-solving skills.
 
 ---
 
-# 🎯 Career Goals
+## 💡 Quote
 
-- ✅ Become a Software Engineer.
-- ✅ Become a Java Developer.
-- ✅ Contribute to Open Source.
-- ✅ Build real-world software solutions.
-- ✅ Continuously improve my programming and problem-solving skills.
-
----
-
-# 💡 Favorite Quote
-
-> "The best way to predict the future is to create it."
+> **"The best way to predict the future is to create it."**
 
 ---
 
@@ -147,7 +140,5 @@ A responsive portfolio website showcasing my education, skills, projects, and ac
 </h3>
 
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
-</p> 
-connecting with me.
+Feel free to explore my repositories, connect with me on LinkedIn, and collaborate on exciting projects.
 </p>
